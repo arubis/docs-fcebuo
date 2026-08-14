@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-snoit4.salamduit.sbs/sitemap.xml
